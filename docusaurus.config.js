@@ -3,7 +3,7 @@ const { themes: prismThemes } = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Blog của Tiến Thành',
-  tagline: 'Chia sẻ hành trình học ATTT',
+  tagline: 'Chia sẻ hành trình học An toàn thông tin',
   url: 'https://tienthanh23072007-stack.github.io',
   baseUrl: '/my-docusaurus/',
 
@@ -21,6 +21,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogTitle: 'Bài viết',
+          blogDescription: 'Nơi chia sẻ kiến thức và quá trình học tập'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -31,9 +33,9 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Tiến Thành',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo Blog Tiến Thành',
         src: 'img/logo.svg',
       },
       items: [
@@ -41,12 +43,12 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Tài liệu học tập',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/blog', label: 'Bài viết', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          label: 'GitHub cá nhân',
           position: 'right',
         },
       ],
@@ -56,19 +58,23 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Học tập',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Tài liệu ATTT',
               to: '/docs/intro',
+            },
+            {
+              label: 'Blog',
+              to: '/blog',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Liên kết',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'GitHub',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
