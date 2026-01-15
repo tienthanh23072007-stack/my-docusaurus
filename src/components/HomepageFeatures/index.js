@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Dễ sử dụng',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Website được sử dụng để thiết kế đơn giản, dễ cài đặt
+        và dễ sử dụng.
+    
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Tập trung vào nội dung',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Giúp bạn tập trung viết log và tài liệu học tập.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Xây dựng bằng React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Website được xây dựng trên React, dễ mở rộng và nâng cấp.
       </>
     ),
   },
