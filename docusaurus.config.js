@@ -3,7 +3,7 @@ const { themes: prismThemes } = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Blog của Tiến Thành',
-  tagline: 'Chia sẻ hành trình học An toàn thông tin',
+  tagline: 'Chia sẻ hành trình học An toàn thông tin 🔐',
   url: 'https://tienthanh23072007-stack.github.io',
   baseUrl: '/my-docusaurus/',
 
