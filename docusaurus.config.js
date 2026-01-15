@@ -2,8 +2,8 @@ const { themes: prismThemes } = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Blog của Tiến Thành',
+  tagline: 'Chia sẻ hành trình học ATTT',
   url: 'https://tienthanh23072007-stack.github.io',
   baseUrl: '/my-docusaurus/',
 
