@@ -9,7 +9,7 @@ const config = {
 
   organizationName: 'tienthanh23072007-stack', // GitHub username
   projectName: 'my-docusaurus', // Repo name
-  deploymentBranch: 'gh-pages'
+  deploymentBranch: 'gh-pages',
   favicon: 'img/favicon.ico',
 
   presets: [
