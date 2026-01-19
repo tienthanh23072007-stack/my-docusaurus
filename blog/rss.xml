@@ -4,10 +4,41 @@
         <title>Blog của Tiến Thành Blog</title>
         <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog</link>
         <description>Blog của Tiến Thành Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 03:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Hướng dẫn tạo Blog bằng Docusaurus]]></title>
+            <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</link>
+            <guid>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</guid>
+            <pubDate>Mon, 19 Jan 2026 03:25:56 GMT</pubDate>
+            <description><![CDATA[1. Blog là gì? Docusaurus là gì?]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-blog-là-gì-docusaurus-là-gì">1. Blog là gì? Docusaurus là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#1-blog-l%C3%A0-g%C3%AC-docusaurus-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1. Blog là gì? Docusaurus là gì?" title="Direct link to 1. Blog là gì? Docusaurus là gì?" translate="no">​</a></h2>
+<p><strong>Blog</strong> là nơi chia sẻ kiến thức, ghi chép quá trình học tập.<br>
+<strong>Docusaurus</strong> là framework giúp tạo website blog / docs nhanh, được xây dựng trên React.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-công-cụ-sử-dụng">2. Công cụ sử dụng<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#2-c%C3%B4ng-c%E1%BB%A5-s%E1%BB%AD-d%E1%BB%A5ng" class="hash-link" aria-label="Direct link to 2. Công cụ sử dụng" title="Direct link to 2. Công cụ sử dụng" translate="no">​</a></h2>
+<ul>
+<li class="">NodeJS</li>
+<li class="">VS Code</li>
+<li class="">Docusaurus</li>
+<li class="">GitHub Pages</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-quy-trình-dựng-blog">3. Quy trình dựng Blog<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#3-quy-tr%C3%ACnh-d%E1%BB%B1ng-blog" class="hash-link" aria-label="Direct link to 3. Quy trình dựng Blog" title="Direct link to 3. Quy trình dựng Blog" translate="no">​</a></h2>
+<p>Slide dưới đây mô tả <strong>toàn bộ quy trình xây dựng website</strong>,<br>
+<!-- -->từ bước khởi tạo project cho đến khi deploy (triển khai) website lên GitHub Pages.</p>
+<p>👉 <strong>Xem slide hướng dẫn chi tiết tại đây:</strong><br>
+<!-- -->🔗 <a href="https://www.canva.com/design/DAG-x-HN2J0/AXmxIe_VDDip6aalEPP8PQ/view" target="_blank" rel="noopener noreferrer" class="">https://www.canva.com/design/DAG-x-HN2J0/AXmxIe_VDDip6aalEPP8PQ/view</a></p>
+<p><em>(Slide sẽ mở ở tab mới để xem đầy đủ và rõ ràng hơn)</em></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-kết-luận">4. Kết luận<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#4-k%E1%BA%BFt-lu%E1%BA%ADn" class="hash-link" aria-label="Direct link to 4. Kết luận" title="Direct link to 4. Kết luận" translate="no">​</a></h2>
+<p>Sau khi xem slide, người mới có thể:</p>
+<ul>
+<li class="">Tạo project Docusaurus</li>
+<li class="">Viết bài blog</li>
+<li class="">Đẩy source code lên GitHub</li>
+<li class="">Deploy website bằng GitHub Pages</li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/welcome</link>
