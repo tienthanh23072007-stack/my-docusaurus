@@ -87,10 +87,16 @@
 <div class="language-solidity codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-solidity codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">pragma solidity ^0.8.0;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">contract HelloWeb3 {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    function hello() public pure returns(string memory) {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        return "Hello Web3!";</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    }</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">}</span><br></span></code></pre></div></div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[demo]]></title>
+            <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo</link>
+            <guid>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo</guid>
+            <pubDate>Sun, 08 Feb 2026 03:30:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hướng dẫn tạo Blog bằng Docusaurus]]></title>
             <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</link>
             <guid>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</guid>
-            <pubDate>Mon, 19 Jan 2026 03:25:56 GMT</pubDate>
+            <pubDate>Sun, 08 Feb 2026 03:30:18 GMT</pubDate>
             <description><![CDATA[1. Blog là gì? Docusaurus là gì?]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-blog-là-gì-docusaurus-là-gì">1. Blog là gì? Docusaurus là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#1-blog-l%C3%A0-g%C3%AC-docusaurus-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1. Blog là gì? Docusaurus là gì?" title="Direct link to 1. Blog là gì? Docusaurus là gì?" translate="no">​</a></h2>
 <p><strong>Blog</strong> là nơi chia sẻ kiến thức, ghi chép quá trình học tập.<br>
@@ -116,12 +122,6 @@
 <li class="">Đẩy source code lên GitHub</li>
 <li class="">Deploy website bằng GitHub Pages</li>
 </ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[demo]]></title>
-            <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo</link>
-            <guid>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo</guid>
-            <pubDate>Thu, 15 Jan 2026 05:38:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
