@@ -2,16 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog</id>
     <title>Blog của Tiến Thành Blog</title>
-    <updated>2026-01-19T03:47:48.000Z</updated>
+    <updated>2026-02-08T03:30:18.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog"/>
     <subtitle>Blog của Tiến Thành Blog</subtitle>
     <icon>https://tienthanh23072007-stack.github.io/my-docusaurus/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Blockchain & Web3 – Hướng dẫn từ cơ bản đến thực hành]]></title>
+        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3</id>
+        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3"/>
+        <updated>2026-02-08T03:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Giải thích Blockchain, Web3, Smart Contract và ví Web3 một cách dễ hiểu cho người mới bắt đầu]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-giới-thiệu">📌 Giới thiệu<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-gi%E1%BB%9Bi-thi%E1%BB%87u" class="hash-link" aria-label="Direct link to 📌 Giới thiệu" title="Direct link to 📌 Giới thiệu" translate="no">​</a></h2>
+<p>Blockchain và Web3 đang là những công nghệ cốt lõi của Internet thế hệ mới.<br>
+<!-- -->Nếu Web2 giúp người dùng <strong>tương tác và tạo nội dung</strong>, thì Web3 hướng đến mục tiêu lớn hơn:<br>
+<!-- -->👉 <strong>trao quyền sở hữu dữ liệu và tài sản số cho người dùng</strong>.</p>
+<p>Bài viết này được thiết kế dành cho <strong>người mới bắt đầu</strong>, giúp bạn:</p>
+<ul>
+<li class="">Hiểu Blockchain là gì</li>
+<li class="">Hiểu Web3 khác Web2 ở điểm nào</li>
+<li class="">Biết Smart Contract hoạt động ra sao</li>
+<li class="">Có cái nhìn tổng quan trước khi học sâu hơn</li>
+</ul>
+<p>📊 <strong>Slide minh hoạ toàn bộ bài học:</strong><br>
+<!-- -->👉 <a href="https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_blank" rel="noopener noreferrer" class="">Blockchain &amp; Web3 – Canva</a></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1️⃣-blockchain-là-gì">1️⃣ Blockchain là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#1%EF%B8%8F%E2%83%A3-blockchain-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1️⃣ Blockchain là gì?" title="Direct link to 1️⃣ Blockchain là gì?" translate="no">​</a></h2>
+<p>Blockchain (chuỗi khối) là một <strong>cơ sở dữ liệu phân tán</strong>, nơi dữ liệu được:</p>
+<ul>
+<li class="">Ghi lại thành từng <strong>Block</strong></li>
+<li class="">Các block <strong>liên kết với nhau bằng mã hoá</strong></li>
+<li class="">Không thể sửa đổi dữ liệu đã ghi</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-đặc-điểm-chính-của-blockchain">🔗 Đặc điểm chính của Blockchain<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-%C4%91%E1%BA%B7c-%C4%91i%E1%BB%83m-ch%C3%ADnh-c%E1%BB%A7a-blockchain" class="hash-link" aria-label="Direct link to 🔗 Đặc điểm chính của Blockchain" title="Direct link to 🔗 Đặc điểm chính của Blockchain" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>Phi tập trung</strong>: Không có máy chủ trung tâm</li>
+<li class=""><strong>Minh bạch</strong>: Ai cũng có thể kiểm tra giao dịch</li>
+<li class=""><strong>Bất biến</strong>: Dữ liệu đã ghi gần như không thể xoá</li>
+</ul>
+<p>📌 Ví dụ:</p>
+<blockquote>
+<p>Khi bạn chuyển tiền trên blockchain, giao dịch đó sẽ được ghi lại vĩnh viễn và mọi người đều có thể kiểm tra.</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2️⃣-cấu-trúc-cơ-bản-của-blockchain--web3">2️⃣ Cấu trúc cơ bản của Blockchain &amp; Web3<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#2%EF%B8%8F%E2%83%A3-c%E1%BA%A5u-tr%C3%BAc-c%C6%A1-b%E1%BA%A3n-c%E1%BB%A7a-blockchain--web3" class="hash-link" aria-label="Direct link to 2️⃣ Cấu trúc cơ bản của Blockchain &amp; Web3" title="Direct link to 2️⃣ Cấu trúc cơ bản của Blockchain &amp; Web3" translate="no">​</a></h2>
+<p>Một hệ sinh thái Web3 thường gồm các thành phần sau:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-block">🔹 Block<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-block" class="hash-link" aria-label="Direct link to 🔹 Block" title="Direct link to 🔹 Block" translate="no">​</a></h3>
+<ul>
+<li class="">Chứa dữ liệu giao dịch</li>
+<li class="">Có mã băm (hash) của block trước</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-hash">🔹 Hash<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-hash" class="hash-link" aria-label="Direct link to 🔹 Hash" title="Direct link to 🔹 Hash" translate="no">​</a></h3>
+<ul>
+<li class="">Là chuỗi ký tự mã hoá đại diện cho dữ liệu</li>
+<li class="">Chỉ cần thay đổi 1 ký tự → hash đổi hoàn toàn</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-node">🔹 Node<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-node" class="hash-link" aria-label="Direct link to 🔹 Node" title="Direct link to 🔹 Node" translate="no">​</a></h3>
+<ul>
+<li class="">Là các máy tính tham gia mạng blockchain</li>
+<li class="">Mỗi node lưu một bản sao dữ liệu</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-wallet-ví-web3">🔹 Wallet (Ví Web3)<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-wallet-v%C3%AD-web3" class="hash-link" aria-label="Direct link to 🔹 Wallet (Ví Web3)" title="Direct link to 🔹 Wallet (Ví Web3)" translate="no">​</a></h3>
+<ul>
+<li class="">Đại diện cho <strong>danh tính số</strong> của người dùng</li>
+<li class="">Lưu private key (chìa khoá riêng)</li>
+<li class="">Ví dụ: MetaMask, Trust Wallet</li>
+</ul>
+<p>📊 <strong>Slide minh hoạ phần cấu trúc:</strong><br>
+<!-- -->👉 <a href="https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_blank" rel="noopener noreferrer" class="">Xem trên Canva</a></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3️⃣-smart-contract-là-gì">3️⃣ Smart Contract là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#3%EF%B8%8F%E2%83%A3-smart-contract-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 3️⃣ Smart Contract là gì?" title="Direct link to 3️⃣ Smart Contract là gì?" translate="no">​</a></h2>
+<p>Smart Contract (Hợp đồng thông minh) là:</p>
+<blockquote>
+<p><strong>Chương trình tự động chạy trên blockchain</strong>, không cần bên trung gian.</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-đặc-điểm">🧠 Đặc điểm<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-%C4%91%E1%BA%B7c-%C4%91i%E1%BB%83m" class="hash-link" aria-label="Direct link to 🧠 Đặc điểm" title="Direct link to 🧠 Đặc điểm" translate="no">​</a></h3>
+<ul>
+<li class="">Tự động thực thi</li>
+<li class="">Không thể chỉnh sửa sau khi deploy</li>
+<li class="">Công khai &amp; minh bạch</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="️-ví-dụ-smart-contract-đơn-giản-solidity">✍️ Ví dụ Smart Contract đơn giản (Solidity)<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#%EF%B8%8F-v%C3%AD-d%E1%BB%A5-smart-contract-%C4%91%C6%A1n-gi%E1%BA%A3n-solidity" class="hash-link" aria-label="Direct link to ✍️ Ví dụ Smart Contract đơn giản (Solidity)" title="Direct link to ✍️ Ví dụ Smart Contract đơn giản (Solidity)" translate="no">​</a></h3>
+<div class="language-solidity codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-solidity codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">pragma solidity ^0.8.0;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">contract HelloWeb3 {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    function hello() public pure returns(string memory) {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        return "Hello Web3!";</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    }</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">}</span><br></span></code></pre></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hướng dẫn tạo Blog bằng Docusaurus]]></title>
         <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</id>
         <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus"/>
-        <updated>2026-01-19T03:47:48.000Z</updated>
+        <updated>2026-01-19T03:25:56.000Z</updated>
         <summary type="html"><![CDATA[1. Blog là gì? Docusaurus là gì?]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-blog-là-gì-docusaurus-là-gì">1. Blog là gì? Docusaurus là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#1-blog-l%C3%A0-g%C3%AC-docusaurus-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1. Blog là gì? Docusaurus là gì?" title="Direct link to 1. Blog là gì? Docusaurus là gì?" translate="no">​</a></h2>
 <p><strong>Blog</strong> là nơi chia sẻ kiến thức, ghi chép quá trình học tập.<br>
@@ -39,102 +117,9 @@
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/welcome</id>
-        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer" class="">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer" class="">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li class=""><code>2019-05-30-welcome.md</code></li>
-<li class=""><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://tienthanh23072007-stack.github.io/my-docusaurus/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
-        </author>
-        <category label="Facebook" term="Facebook"/>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/mdx-blog-post</id>
-        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer" class="">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer" class="">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
-<!-- -->
-<p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre></div></div>
-<button>Click me!</button>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/long-blog-post</id>
-        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
-        </author>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/first-blog-post</id>
-        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
-        </author>
-        <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <title type="html"><![CDATA[demo]]></title>
+        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo</id>
+        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo"/>
+        <updated>2026-01-15T05:38:02.000Z</updated>
     </entry>
 </feed>
