@@ -1,0 +1,85 @@
+---
+title: Blockchain & Web3 – Hướng dẫn từ cơ bản đến thực hành
+description: Giải thích Blockchain, Web3, Smart Contract và ví Web3 một cách dễ hiểu cho người mới bắt đầu
+---
+
+## 📌 Giới thiệu
+
+Blockchain và Web3 đang là những công nghệ cốt lõi của Internet thế hệ mới.  
+Nếu Web2 giúp người dùng **tương tác và tạo nội dung**, thì Web3 hướng đến mục tiêu lớn hơn:  
+👉 **trao quyền sở hữu dữ liệu và tài sản số cho người dùng**.
+
+Bài viết này được thiết kế dành cho **người mới bắt đầu**, giúp bạn:
+- Hiểu Blockchain là gì
+- Hiểu Web3 khác Web2 ở điểm nào
+- Biết Smart Contract hoạt động ra sao
+- Có cái nhìn tổng quan trước khi học sâu hơn
+
+📊 **Slide minh hoạ toàn bộ bài học:**  
+👉 [Blockchain & Web3 – Canva](https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+## 1️⃣ Blockchain là gì?
+
+Blockchain (chuỗi khối) là một **cơ sở dữ liệu phân tán**, nơi dữ liệu được:
+- Ghi lại thành từng **Block**
+- Các block **liên kết với nhau bằng mã hoá**
+- Không thể sửa đổi dữ liệu đã ghi
+
+### 🔗 Đặc điểm chính của Blockchain
+- **Phi tập trung**: Không có máy chủ trung tâm
+- **Minh bạch**: Ai cũng có thể kiểm tra giao dịch
+- **Bất biến**: Dữ liệu đã ghi gần như không thể xoá
+
+📌 Ví dụ:
+> Khi bạn chuyển tiền trên blockchain, giao dịch đó sẽ được ghi lại vĩnh viễn và mọi người đều có thể kiểm tra.
+
+---
+
+## 2️⃣ Cấu trúc cơ bản của Blockchain & Web3
+
+Một hệ sinh thái Web3 thường gồm các thành phần sau:
+
+### 🔹 Block
+- Chứa dữ liệu giao dịch
+- Có mã băm (hash) của block trước
+
+### 🔹 Hash
+- Là chuỗi ký tự mã hoá đại diện cho dữ liệu
+- Chỉ cần thay đổi 1 ký tự → hash đổi hoàn toàn
+
+### 🔹 Node
+- Là các máy tính tham gia mạng blockchain
+- Mỗi node lưu một bản sao dữ liệu
+
+### 🔹 Wallet (Ví Web3)
+- Đại diện cho **danh tính số** của người dùng
+- Lưu private key (chìa khoá riêng)
+- Ví dụ: MetaMask, Trust Wallet
+
+📊 **Slide minh hoạ phần cấu trúc:**  
+👉 [Xem trên Canva](https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+## 3️⃣ Smart Contract là gì?
+
+Smart Contract (Hợp đồng thông minh) là:
+> **Chương trình tự động chạy trên blockchain**, không cần bên trung gian.
+
+### 🧠 Đặc điểm
+- Tự động thực thi
+- Không thể chỉnh sửa sau khi deploy
+- Công khai & minh bạch
+
+### ✍️ Ví dụ Smart Contract đơn giản (Solidity)
+
+```solidity
+pragma solidity ^0.8.0;
+
+contract HelloWeb3 {
+    function hello() public pure returns(string memory) {
+        return "Hello Web3!";
+    }
+}
