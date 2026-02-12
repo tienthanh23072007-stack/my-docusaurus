@@ -4,7 +4,7 @@
         <title>Blog của Tiến Thành Blog</title>
         <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog</link>
         <description>Blog của Tiến Thành Blog</description>
-        <lastBuildDate>Sun, 08 Feb 2026 03:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 03:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Blockchain & Web3 – Hướng dẫn từ cơ bản đến thực hành]]></title>
             <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3</link>
             <guid>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3</guid>
-            <pubDate>Sun, 08 Feb 2026 03:30:18 GMT</pubDate>
+            <pubDate>Thu, 12 Feb 2026 03:53:39 GMT</pubDate>
             <description><![CDATA[Giải thích Blockchain, Web3, Smart Contract và ví Web3 một cách dễ hiểu cho người mới bắt đầu]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-giới-thiệu">📌 Giới thiệu<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blockchain-web3#-gi%E1%BB%9Bi-thi%E1%BB%87u" class="hash-link" aria-label="Direct link to 📌 Giới thiệu" title="Direct link to 📌 Giới thiệu" translate="no">​</a></h2>
 <p>Blockchain và Web3 đang là những công nghệ cốt lõi của Internet thế hệ mới.<br>
@@ -90,13 +90,13 @@
             <title><![CDATA[demo]]></title>
             <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo</link>
             <guid>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/demo</guid>
-            <pubDate>Sun, 08 Feb 2026 03:30:18 GMT</pubDate>
+            <pubDate>Thu, 12 Feb 2026 03:53:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hướng dẫn tạo Blog bằng Docusaurus]]></title>
             <link>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</link>
             <guid>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</guid>
-            <pubDate>Sun, 08 Feb 2026 03:30:18 GMT</pubDate>
+            <pubDate>Thu, 12 Feb 2026 03:53:39 GMT</pubDate>
             <description><![CDATA[1. Blog là gì? Docusaurus là gì?]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-blog-là-gì-docusaurus-là-gì">1. Blog là gì? Docusaurus là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#1-blog-l%C3%A0-g%C3%AC-docusaurus-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1. Blog là gì? Docusaurus là gì?" title="Direct link to 1. Blog là gì? Docusaurus là gì?" translate="no">​</a></h2>
 <p><strong>Blog</strong> là nơi chia sẻ kiến thức, ghi chép quá trình học tập.<br>
