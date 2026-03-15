@@ -2,117 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog</id>
     <title>Blog của Tiến Thành Blog</title>
-    <updated>2026-02-12T04:20:34.063Z</updated>
+    <updated>2026-02-12T03:51:25.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog"/>
     <subtitle>Blog của Tiến Thành Blog</subtitle>
     <icon>https://tienthanh23072007-stack.github.io/my-docusaurus/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[blog/Java-overview]]></title>
+        <title type="html"><![CDATA[blog/huong-dan-dung-blog]]></title>
+        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog</id>
+        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog"/>
+        <updated>2026-02-12T03:51:25.226Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="title-guide-to-creating-a-blog-with-docusaurusdate-2026-03-15tags-blog-docusaurus-tutorial">title: Guide to Creating a Blog with Docusaurus
+date: 2026-03-15
+tags: [blog, docusaurus, tutorial]<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#title-guide-to-creating-a-blog-with-docusaurusdate-2026-03-15tags-blog-docusaurus-tutorial" class="hash-link" aria-label="Direct link to title: Guide to Creating a Blog with Docusaurus
+date: 2026-03-15
+tags: [blog, docusaurus, tutorial]" title="Direct link to title: Guide to Creating a Blog with Docusaurus
+date: 2026-03-15
+tags: [blog, docusaurus, tutorial]" translate="no">​</a></h2>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-what-is-a-blog-what-is-docusaurus">1. What is a Blog? What is Docusaurus?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#1-what-is-a-blog-what-is-docusaurus" class="hash-link" aria-label="Direct link to 1. What is a Blog? What is Docusaurus?" title="Direct link to 1. What is a Blog? What is Docusaurus?" translate="no">​</a></h2>
+<p><strong>Blog</strong> is a platform for sharing knowledge and documenting the learning process.<br>
+<strong>Docusaurus</strong> is a framework for quickly building blog/documentation websites, built on React.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-tools-used">2. Tools Used<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#2-tools-used" class="hash-link" aria-label="Direct link to 2. Tools Used" title="Direct link to 2. Tools Used" translate="no">​</a></h2>
+<ul>
+<li class="">NodeJS</li>
+<li class="">VS Code</li>
+<li class="">Docusaurus</li>
+<li class="">GitHub Pages</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-blog-building-process">3. Blog Building Process<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#3-blog-building-process" class="hash-link" aria-label="Direct link to 3. Blog Building Process" title="Direct link to 3. Blog Building Process" translate="no">​</a></h2>
+<p>The slide below describes the <strong>entire process of building a website</strong>,<br>
+<!-- -->from initializing the project to deploying the website on GitHub Pages.</p>
+<p>👉 <strong>View the detailed guide slide here:</strong><br>
+<!-- -->🔗 <a href="https://www.canva.com/design/DAG-x-HN2J0/AXmxIe_VDDip6aalEPP8PQ/view" target="_blank" rel="noopener noreferrer" class="">https://www.canva.com/design/DAG-x-HN2J0/AXmxIe_VDDip6aalEPP8PQ/view</a></p>
+<p><em>(The slide will open in a new tab for a full and clear view)</em></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-conclusion">4. Conclusion<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#4-conclusion" class="hash-link" aria-label="Direct link to 4. Conclusion" title="Direct link to 4. Conclusion" translate="no">​</a></h2>
+<p>After viewing the slide, newcomers can:</p>
+<ul>
+<li class="">Create a Docusaurus project</li>
+<li class="">Write blog posts</li>
+<li class="">Push source code to GitHub</li>
+<li class="">Deploy the website using GitHub Pages</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain & Web3 – Guide from Basics to Practice]]></title>
+        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3</id>
+        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3"/>
+        <updated>2026-02-12T03:51:25.225Z</updated>
+        <summary type="html"><![CDATA[Explaining Blockchain, Web3, Smart Contracts, and Web3 Wallets in an Easy-to-Understand Way for Beginners]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-introduction">📌 Introduction<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-introduction" class="hash-link" aria-label="Direct link to 📌 Introduction" title="Direct link to 📌 Introduction" translate="no">​</a></h2>
+<p>Blockchain and Web3 are core technologies of the new generation of the Internet.<br>
+<!-- -->If Web2 helps users <strong>interact and create content</strong>, then Web3 aims for a bigger goal:<br>
+<!-- -->👉 <strong>giving users ownership of data and digital assets</strong>.</p>
+<p>This article is designed for <strong>beginners</strong>, helping you:</p>
+<ul>
+<li class="">Understand what Blockchain is</li>
+<li class="">Understand how Web3 differs from Web2</li>
+<li class="">Know how Smart Contracts work</li>
+<li class="">Get an overview before diving deeper</li>
+</ul>
+<p>📊 <strong>Illustrative slide for the entire lesson:</strong><br>
+<!-- -->👉 <a href="https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_blank" rel="noopener noreferrer" class="">Blockchain &amp; Web3 – Canva</a></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1️⃣-what-is-blockchain">1️⃣ What is Blockchain?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#1%EF%B8%8F%E2%83%A3-what-is-blockchain" class="hash-link" aria-label="Direct link to 1️⃣ What is Blockchain?" title="Direct link to 1️⃣ What is Blockchain?" translate="no">​</a></h2>
+<p>Blockchain (blockchain) is a <strong>distributed database</strong>, where data is:</p>
+<ul>
+<li class="">Recorded into <strong>Blocks</strong></li>
+<li class="">Blocks are <strong>linked together through encryption</strong></li>
+<li class="">Data that has been recorded cannot be modified</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-key-features-of-blockchain">🔗 Key Features of Blockchain<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-key-features-of-blockchain" class="hash-link" aria-label="Direct link to 🔗 Key Features of Blockchain" title="Direct link to 🔗 Key Features of Blockchain" translate="no">​</a></h3>
+<ul>
+<li class=""><strong>Decentralized</strong>: No central server</li>
+<li class=""><strong>Transparent</strong>: Anyone can verify transactions</li>
+<li class=""><strong>Immutable</strong>: Recorded data is almost impossible to delete</li>
+</ul>
+<p>📌 Example:</p>
+<blockquote>
+<p>When you transfer money on the blockchain, that transaction will be recorded permanently and everyone can check it.</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2️⃣-basic-structure-of-blockchain--web3">2️⃣ Basic Structure of Blockchain &amp; Web3<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#2%EF%B8%8F%E2%83%A3-basic-structure-of-blockchain--web3" class="hash-link" aria-label="Direct link to 2️⃣ Basic Structure of Blockchain &amp; Web3" title="Direct link to 2️⃣ Basic Structure of Blockchain &amp; Web3" translate="no">​</a></h2>
+<p>A Web3 ecosystem usually consists of the following components:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-block">🔹 Block<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-block" class="hash-link" aria-label="Direct link to 🔹 Block" title="Direct link to 🔹 Block" translate="no">​</a></h3>
+<ul>
+<li class="">Contains transaction data</li>
+<li class="">Has a hash of the previous block</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-hash">🔹 Hash<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-hash" class="hash-link" aria-label="Direct link to 🔹 Hash" title="Direct link to 🔹 Hash" translate="no">​</a></h3>
+<ul>
+<li class="">Is an encrypted string representing the data</li>
+<li class="">Changing just 1 character → hash changes completely</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-node">🔹 Node<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-node" class="hash-link" aria-label="Direct link to 🔹 Node" title="Direct link to 🔹 Node" translate="no">​</a></h3>
+<ul>
+<li class="">Computers participating in the blockchain network</li>
+<li class="">Each node stores a copy of the data</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-wallet-web3-wallet">🔹 Wallet (Web3 Wallet)<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-wallet-web3-wallet" class="hash-link" aria-label="Direct link to 🔹 Wallet (Web3 Wallet)" title="Direct link to 🔹 Wallet (Web3 Wallet)" translate="no">​</a></h3>
+<ul>
+<li class="">Represents the <strong>digital identity</strong> of the user</li>
+<li class="">Stores private key</li>
+<li class="">Examples: MetaMask, Trust Wallet</li>
+</ul>
+<p>📊 <strong>Illustrative slide for the structure section:</strong><br>
+<!-- -->👉 <a href="https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_blank" rel="noopener noreferrer" class="">View on Canva</a></p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3️⃣-what-is-a-smart-contract">3️⃣ What is a Smart Contract?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#3%EF%B8%8F%E2%83%A3-what-is-a-smart-contract" class="hash-link" aria-label="Direct link to 3️⃣ What is a Smart Contract?" title="Direct link to 3️⃣ What is a Smart Contract?" translate="no">​</a></h2>
+<p>A Smart Contract is:</p>
+<blockquote>
+<p><strong>A program that runs automatically on the blockchain</strong>, without intermediaries.</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-features">🧠 Features<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-features" class="hash-link" aria-label="Direct link to 🧠 Features" title="Direct link to 🧠 Features" translate="no">​</a></h3>
+<ul>
+<li class="">Automatically executes</li>
+<li class="">Cannot be edited after deployment</li>
+<li class="">Public &amp; transparent</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="️-simple-smart-contract-example-solidity">✍️ Simple Smart Contract Example (Solidity)<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#%EF%B8%8F-simple-smart-contract-example-solidity" class="hash-link" aria-label="Direct link to ✍️ Simple Smart Contract Example (Solidity)" title="Direct link to ✍️ Simple Smart Contract Example (Solidity)" translate="no">​</a></h3>
+<div class="language-solidity codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-solidity codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">pragma solidity ^0.8.0;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">contract HelloWeb3 {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    function hello() public pure returns(string memory) {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        return "Hello Web3!";</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    }</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">}</span><br></span></code></pre></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Java Platform – Execution Flow & JVM Architecture]]></title>
         <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview</id>
         <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview"/>
-        <updated>2026-02-12T04:20:34.063Z</updated>
-        <summary type="html"><![CDATA[slug: tim-hieu-Java-platform]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="slug-tim-hieu-java-platformtitle-tìm-hiểu-java-platform--execution-flow--jvm-architecturedate-2026-02-12tags-java-jvm-bytecode-jdk-jre-jit-execution-flow">slug: tim-hieu-Java-platform
-title: Tìm hiểu Java Platform – Execution Flow &amp; JVM Architecture
-date: 2026-02-12
-tags: [java, jvm, bytecode, jdk, jre, jit, execution-flow]<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#slug-tim-hieu-java-platformtitle-t%C3%ACm-hi%E1%BB%83u-java-platform--execution-flow--jvm-architecturedate-2026-02-12tags-java-jvm-bytecode-jdk-jre-jit-execution-flow" class="hash-link" aria-label="Direct link to slug: tim-hieu-Java-platform
-title: Tìm hiểu Java Platform – Execution Flow &amp; JVM Architecture
-date: 2026-02-12
-tags: [java, jvm, bytecode, jdk, jre, jit, execution-flow]" title="Direct link to slug: tim-hieu-Java-platform
-title: Tìm hiểu Java Platform – Execution Flow &amp; JVM Architecture
-date: 2026-02-12
-tags: [java, jvm, bytecode, jdk, jre, jit, execution-flow]" translate="no">​</a></h2>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-java-platform-overview--tổng-quan-nền-tảng-java">1. Java Platform Overview – Tổng quan nền tảng Java<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#1-java-platform-overview--t%E1%BB%95ng-quan-n%E1%BB%81n-t%E1%BA%A3ng-java" class="hash-link" aria-label="Direct link to 1. Java Platform Overview – Tổng quan nền tảng Java" title="Direct link to 1. Java Platform Overview – Tổng quan nền tảng Java" translate="no">​</a></h2>
-<p>Java không chỉ là <strong>một ngôn ngữ lập trình</strong>, mà là <strong>một nền tảng hoàn chỉnh (Java Platform)</strong>.</p>
-<p>👉 Khi nói <em>“lập trình Java”</em>, thực chất ta đang làm việc với <strong>3 thành phần cốt lõi</strong>:</p>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Java Platform Overview]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-java-platform-overview">1. Java Platform Overview<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#1-java-platform-overview" class="hash-link" aria-label="Direct link to 1. Java Platform Overview" title="Direct link to 1. Java Platform Overview" translate="no">​</a></h2>
+<p>Java is not just <strong>a programming language</strong>, but <strong>a complete platform (Java Platform)</strong>.</p>
+<p>👉 When we say <em>"programming in Java"</em>, we are actually working with <strong>3 core components</strong>:</p>
 <ul>
 <li class=""><strong>Java Language</strong></li>
 <li class=""><strong>JVM (Java Virtual Machine)</strong></li>
-<li class=""><strong>Hệ sinh thái thư viện &amp; công cụ</strong></li>
+<li class=""><strong>Ecosystem of libraries &amp; tools</strong></li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="mục-tiêu-cốt-lõi-của-java">Mục tiêu cốt lõi của Java<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#m%E1%BB%A5c-ti%C3%AAu-c%E1%BB%91t-l%C3%B5i-c%E1%BB%A7a-java" class="hash-link" aria-label="Direct link to Mục tiêu cốt lõi của Java" title="Direct link to Mục tiêu cốt lõi của Java" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="core-objectives-of-java">Core Objectives of Java<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#core-objectives-of-java" class="hash-link" aria-label="Direct link to Core Objectives of Java" title="Direct link to Core Objectives of Java" translate="no">​</a></h3>
 <blockquote>
 <p><strong>Write Once, Run Anywhere (WORA)</strong></p>
 </blockquote>
-<p>Viết code <strong>một lần</strong>, chạy được trên:</p>
+<p>Write code <strong>once</strong>, run it on:</p>
 <ul>
 <li class="">Windows</li>
 <li class="">Linux</li>
 <li class="">macOS<br>
-<!-- -->… mà <strong>không cần sửa code</strong></li>
+<!-- -->… without <strong>modifying the code</strong></li>
 </ul>
 <hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-vai-trò-của-jdk-jre-jvm">2. Vai trò của JDK, JRE, JVM<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#2-vai-tr%C3%B2-c%E1%BB%A7a-jdk-jre-jvm" class="hash-link" aria-label="Direct link to 2. Vai trò của JDK, JRE, JVM" title="Direct link to 2. Vai trò của JDK, JRE, JVM" translate="no">​</a></h2>
-<p>Rất nhiều người học Java <strong>bị nhầm lẫn 3 khái niệm này</strong>, nên cần làm rõ tuyệt đối.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-roles-of-jdk-jre-jvm">2. Roles of JDK, JRE, JVM<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#2-roles-of-jdk-jre-jvm" class="hash-link" aria-label="Direct link to 2. Roles of JDK, JRE, JVM" title="Direct link to 2. Roles of JDK, JRE, JVM" translate="no">​</a></h2>
+<p>Many Java learners <strong>confuse these 3 concepts</strong>, so they need to be clarified absolutely.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="21-jvm--java-virtual-machine">2.1 JVM – Java Virtual Machine<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#21-jvm--java-virtual-machine" class="hash-link" aria-label="Direct link to 2.1 JVM – Java Virtual Machine" title="Direct link to 2.1 JVM – Java Virtual Machine" translate="no">​</a></h3>
-<p><strong>JVM là gì?</strong></p>
+<p><strong>What is JVM?</strong></p>
 <ul>
-<li class="">JVM là <strong>máy ảo</strong></li>
-<li class="">Chạy <strong>bytecode Java</strong></li>
-<li class="">Đóng vai trò <strong>trung gian giữa Java và hệ điều hành</strong></li>
+<li class="">JVM is a <strong>virtual machine</strong></li>
+<li class="">Runs <strong>Java bytecode</strong></li>
+<li class="">Acts as <strong>an intermediary between Java and the operating system</strong></li>
 </ul>
 <p>📌 JVM:</p>
 <ul>
-<li class="">Không hiểu <code>.java</code></li>
-<li class="">Không hiểu <code>.exe</code></li>
-<li class=""><strong>Chỉ hiểu <code>.class</code> (bytecode)</strong></li>
+<li class="">Does not understand <code>.java</code></li>
+<li class="">Does not understand <code>.exe</code></li>
+<li class=""><strong>Only understands <code>.class</code> (bytecode)</strong></li>
 </ul>
-<p>👉 Mỗi hệ điều hành có <strong>JVM riêng</strong>, nhưng:</p>
+<p>👉 Each operating system has its own <strong>JVM</strong>, but:</p>
 <ul>
-<li class="">Bytecode thì <strong>giống nhau</strong></li>
+<li class="">Bytecode is <strong>the same</strong></li>
 </ul>
 <hr>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="22-jre--java-runtime-environment">2.2 JRE – Java Runtime Environment<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#22-jre--java-runtime-environment" class="hash-link" aria-label="Direct link to 2.2 JRE – Java Runtime Environment" title="Direct link to 2.2 JRE – Java Runtime Environment" translate="no">​</a></h3>
-<p><strong>JRE gồm:</strong></p>
+<p><strong>JRE includes:</strong></p>
 <ul>
 <li class="">JVM</li>
 <li class="">Core Java Libraries (java.lang, java.util, ...)</li>
-<li class="">Các file cấu hình runtime</li>
+<li class="">Runtime configuration files</li>
 </ul>
-<p>👉 JRE dùng để:</p>
+<p>👉 JRE is used to:</p>
 <ul>
-<li class=""><strong>Chạy chương trình Java</strong></li>
-<li class="">❌ Không dùng để viết hay biên dịch code</li>
+<li class=""><strong>Run Java programs</strong></li>
+<li class="">❌ Not for writing or compiling code</li>
 </ul>
-<p>📌 Nếu máy chỉ có JRE:</p>
+<p>📌 If the machine only has JRE:</p>
 <ul>
-<li class="">Chạy được <code>.class</code></li>
-<li class="">❌ Không biên dịch được <code>.java</code></li>
+<li class="">Can run <code>.class</code></li>
+<li class="">❌ Cannot compile <code>.java</code></li>
 </ul>
 <hr>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="23-jdk--java-development-kit">2.3 JDK – Java Development Kit<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#23-jdk--java-development-kit" class="hash-link" aria-label="Direct link to 2.3 JDK – Java Development Kit" title="Direct link to 2.3 JDK – Java Development Kit" translate="no">​</a></h3>
-<p><strong>JDK = JRE + Công cụ phát triển</strong></p>
-<p>Bao gồm:</p>
+<p><strong>JDK = JRE + Development Tools</strong></p>
+<p>Includes:</p>
 <ul>
 <li class=""><code>javac</code> (compiler)</li>
 <li class=""><code>java</code> (launcher)</li>
 <li class=""><code>javadoc</code>, <code>jdb</code>, ...</li>
 </ul>
-<p>👉 JDK dùng để:</p>
+<p>👉 JDK is used to:</p>
 <ul>
-<li class="">Viết code</li>
-<li class="">Biên dịch</li>
-<li class="">Chạy</li>
+<li class="">Write code</li>
+<li class="">Compile</li>
+<li class="">Run</li>
 <li class="">Debug</li>
 </ul>
-<p>📌 Khi cài Java để học lập trình:
-➡️ <strong>LUÔN cần JDK</strong></p>
+<p>📌 When installing Java for programming:
+➡️ <strong>ALWAYS need JDK</strong></p>
 <hr>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="24-mối-quan-hệ-tổng-thể">2.4 Mối quan hệ tổng thể<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#24-m%E1%BB%91i-quan-h%E1%BB%87-t%E1%BB%95ng-th%E1%BB%83" class="hash-link" aria-label="Direct link to 2.4 Mối quan hệ tổng thể" title="Direct link to 2.4 Mối quan hệ tổng thể" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="24-overall-relationship">2.4 Overall Relationship<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#24-overall-relationship" class="hash-link" aria-label="Direct link to 2.4 Overall Relationship" title="Direct link to 2.4 Overall Relationship" translate="no">​</a></h3>
 <p>JDK <br>
 ├── JRE <br>
 │   ├── JVM <br>
 │   └── Java Core Libraries <br>
 └── Development Tools <br></p>
 <hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-mối-quan-hệ-giữa-java-language-và-java-platform">3. Mối quan hệ giữa Java Language và Java Platform<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#3-m%E1%BB%91i-quan-h%E1%BB%87-gi%E1%BB%AFa-java-language-v%C3%A0-java-platform" class="hash-link" aria-label="Direct link to 3. Mối quan hệ giữa Java Language và Java Platform" title="Direct link to 3. Mối quan hệ giữa Java Language và Java Platform" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-relationship-between-java-language-and-java-platform">3. Relationship between Java Language and Java Platform<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#3-relationship-between-java-language-and-java-platform" class="hash-link" aria-label="Direct link to 3. Relationship between Java Language and Java Platform" title="Direct link to 3. Relationship between Java Language and Java Platform" translate="no">​</a></h2>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="java-language">Java Language<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#java-language" class="hash-link" aria-label="Direct link to Java Language" title="Direct link to Java Language" translate="no">​</a></h3>
 <ul>
-<li class="">Cú pháp và từ khóa</li>
-<li class="">Kiểu dữ liệu</li>
+<li class="">Syntax and keywords</li>
+<li class="">Data types</li>
 <li class="">OOP (class, object, inheritance)</li>
-<li class="">File mã nguồn <code>.java</code></li>
+<li class="">Source code files <code>.java</code></li>
 </ul>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="java-platform">Java Platform<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#java-platform" class="hash-link" aria-label="Direct link to Java Platform" title="Direct link to Java Platform" translate="no">​</a></h3>
 <ul>
@@ -121,15 +230,15 @@ tags: [java, jvm, bytecode, jdk, jre, jit, execution-flow]" translate="no">​</
 <li class="">Runtime Data Areas</li>
 <li class="">Execution Engine &amp; Garbage Collector</li>
 </ul>
-<p><strong>Java Language chỉ là phần nổi</strong><br>
-<strong>Java Platform mới là thứ quyết định chương trình chạy thế nào</strong></p>
+<p><strong>Java Language is just the surface</strong><br>
+<strong>Java Platform is what determines how the program runs</strong></p>
 <hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-java-execution-flow--luồng-thực-thi-của-java">4. Java Execution Flow – Luồng thực thi của Java<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#4-java-execution-flow--lu%E1%BB%93ng-th%E1%BB%B1c-thi-c%E1%BB%A7a-java" class="hash-link" aria-label="Direct link to 4. Java Execution Flow – Luồng thực thi của Java" title="Direct link to 4. Java Execution Flow – Luồng thực thi của Java" translate="no">​</a></h2>
-<p>Khi bạn chạy một chương trình Java, <strong>JVM không thực thi trực tiếp file <code>.java</code></strong>.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="luồng-tổng-quát">Luồng tổng quát<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#lu%E1%BB%93ng-t%E1%BB%95ng-qu%C3%A1t" class="hash-link" aria-label="Direct link to Luồng tổng quát" title="Direct link to Luồng tổng quát" translate="no">​</a></h3>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-java-execution-flow">4. Java Execution Flow<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#4-java-execution-flow" class="hash-link" aria-label="Direct link to 4. Java Execution Flow" title="Direct link to 4. Java Execution Flow" translate="no">​</a></h2>
+<p>When you run a Java program, <strong>JVM does not execute the <code>.java</code> file directly</strong>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="general-flow">General Flow<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#general-flow" class="hash-link" aria-label="Direct link to General Flow" title="Direct link to General Flow" translate="no">​</a></h3>
 <p>IDE  <br>
 ↓ (Save)  <br>
-<code>Hello.java</code> (Ổ cứng) <br>
+<code>Hello.java</code> (Hard Drive) <br>
 ↓ (Compile)  <br>
 <code>javac Hello.java</code>  <br>
 ↓  <br>
@@ -139,239 +248,19 @@ JVM (RAM)  <br>
 ↓  <br>
 OS  <br>
 ↓  <br>
-CPU thực thi  <br></p>
+CPU Execution  <br></p>
 <hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-compile-time-và-runtime-trong-java">5. Compile-time và Runtime trong Java<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#5-compile-time-v%C3%A0-runtime-trong-java" class="hash-link" aria-label="Direct link to 5. Compile-time và Runtime trong Java" title="Direct link to 5. Compile-time và Runtime trong Java" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-compile-time-and-runtime-in-java">5. Compile-time and Runtime in Java<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#5-compile-time-and-runtime-in-java" class="hash-link" aria-label="Direct link to 5. Compile-time and Runtime in Java" title="Direct link to 5. Compile-time and Runtime in Java" translate="no">​</a></h2>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="51-compile-time">5.1 Compile-time<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#51-compile-time" class="hash-link" aria-label="Direct link to 5.1 Compile-time" title="Direct link to 5.1 Compile-time" translate="no">​</a></h3>
-<p><strong>Xảy ra khi chạy:</strong></p>
-<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">javac Hello.java</span><br></span></code></pre></div></div>
-<p>Đầu vào:</p>
-<p>File .java (source code)</p>
-<p>Java làm gì?
--Kiểm tra cú pháp
--Kiểm tra kiểu dữ liệu
--Biên dịch sang bytecode</p>
-<p>Đầu ra:
--File .class</p>
-<p>📌 Compile-time không chạy chương trình</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="52-runtime">5.2 Runtime<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#52-runtime" class="hash-link" aria-label="Direct link to 5.2 Runtime" title="Direct link to 5.2 Runtime" translate="no">​</a></h3>
-<p>Xảy ra khi chạy:</p>
-<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">java Hello</span><br></span></code></pre></div></div>
-<p>Đầu vào:
--File .class</p>
-<p>Java làm gì?
--JVM load class
--Kiểm tra bytecode</p>
-<p>Thực thi
-📌 Runtime mới là lúc chương trình thực sự chạy</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-bytecode-là-gì-vì-sao-java-portable">6. Bytecode là gì? Vì sao Java portable?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#6-bytecode-l%C3%A0-g%C3%AC-v%C3%AC-sao-java-portable" class="hash-link" aria-label="Direct link to 6. Bytecode là gì? Vì sao Java portable?" title="Direct link to 6. Bytecode là gì? Vì sao Java portable?" translate="no">​</a></h2>
-<p>Bytecode là gì?
--Là mã trung gian
--Không phải mã máy
--Không phụ thuộc OS hay CPU</p>
-<p>📌 Bytecode:
--Chạy trên JVM
--JVM dịch tiếp sang mã máy</p>
-<p>Vì sao Java chạy đa nền tảng?</p>
-<p>Java Source (.java)<br>
-↓<br>
-Bytecode (.class)<br>
-↓<br>
-┌─────────────┐ <br>
-│ JVM Windows │ → CPU Windows <br>
-│ JVM Linux   │ → CPU Linux <br>
-│ JVM macOS   │ → CPU macOS <br>
-└─────────────┘</p>
-<p>👉 Không phải Java chạy trực tiếp trên OS
-👉 JVM mới là thứ chạy trên OS</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-jvm-architecture--kiến-trúc-jvm">7. JVM Architecture – Kiến trúc JVM<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#7-jvm-architecture--ki%E1%BA%BFn-tr%C3%BAc-jvm" class="hash-link" aria-label="Direct link to 7. JVM Architecture – Kiến trúc JVM" title="Direct link to 7. JVM Architecture – Kiến trúc JVM" translate="no">​</a></h2>
-<p>JVM gồm 3 khối lớn:
--ClassLoader Subsystem
--Runtime Data Areas
--Execution Engine</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="8-classloader-subsystem">8. ClassLoader Subsystem<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#8-classloader-subsystem" class="hash-link" aria-label="Direct link to 8. ClassLoader Subsystem" title="Direct link to 8. ClassLoader Subsystem" translate="no">​</a></h2>
-<p>Nhiệm vụ:
--Load .class vào JVM
--Kiểm tra tính hợp lệ
--Chuẩn bị class để chạy</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="các-loại-classloader-trong-jvm">Các loại ClassLoader trong JVM<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#c%C3%A1c-lo%E1%BA%A1i-classloader-trong-jvm" class="hash-link" aria-label="Direct link to Các loại ClassLoader trong JVM" title="Direct link to Các loại ClassLoader trong JVM" translate="no">​</a></h3>
-<ul>
-<li class="">
-<p><strong>Bootstrap ClassLoader</strong><br>
-<!-- -->Load các core class của Java (ví dụ: <code>java.lang</code>, <code>java.util</code>)</p>
-</li>
-<li class="">
-<p><strong>Platform ClassLoader</strong> <em>(Java 9+)</em><br>
-<!-- -->Load các thư viện thuộc Java Platform (ví dụ: <code>java.sql</code>, <code>java.xml</code>)</p>
-</li>
-<li class="">
-<p><strong>Application ClassLoader</strong><br>
-<!-- -->Load các class do lập trình viên viết (classpath)
-📌 Class chỉ được load khi cần thiết</p>
-</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="9-runtime-data-areas--vùng-nhớ-trong-jvm">9. Runtime Data Areas – Vùng nhớ trong JVM<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#9-runtime-data-areas--v%C3%B9ng-nh%E1%BB%9B-trong-jvm" class="hash-link" aria-label="Direct link to 9. Runtime Data Areas – Vùng nhớ trong JVM" title="Direct link to 9. Runtime Data Areas – Vùng nhớ trong JVM" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="91-method-area">9.1 Method Area<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#91-method-area" class="hash-link" aria-label="Direct link to 9.1 Method Area" title="Direct link to 9.1 Method Area" translate="no">​</a></h3>
-<p>Lưu:
--Class metadata
--Method info
--Static variables</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="92-heap">9.2 Heap<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#92-heap" class="hash-link" aria-label="Direct link to 9.2 Heap" title="Direct link to 9.2 Heap" translate="no">​</a></h3>
-<p>-Lưu object
--Dùng chung cho toàn JVM
--Do Garbage Collector quản lý</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="93-stack">9.3 Stack<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#93-stack" class="hash-link" aria-label="Direct link to 9.3 Stack" title="Direct link to 9.3 Stack" translate="no">​</a></h3>
-<p>Mỗi thread có stack riêng</p>
-<p>Lưu:
--Local variables
--Method call
--Reference</p>
-<p>📌 Stack nhỏ, nhanh
-📌 Heap lớn, chậm hơn</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="94-pc-register">9.4 PC Register<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#94-pc-register" class="hash-link" aria-label="Direct link to 9.4 PC Register" title="Direct link to 9.4 PC Register" translate="no">​</a></h3>
-<p>Lưu địa chỉ instruction đang chạy</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="95-native-method-stack">9.5 Native Method Stack<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#95-native-method-stack" class="hash-link" aria-label="Direct link to 9.5 Native Method Stack" title="Direct link to 9.5 Native Method Stack" translate="no">​</a></h3>
-<p>Dùng cho code native (C/C++)</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="10-execution-engine--bộ-máy-thực-thi">10. Execution Engine – Bộ máy thực thi<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#10-execution-engine--b%E1%BB%99-m%C3%A1y-th%E1%BB%B1c-thi" class="hash-link" aria-label="Direct link to 10. Execution Engine – Bộ máy thực thi" title="Direct link to 10. Execution Engine – Bộ máy thực thi" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="101-interpreter">10.1 Interpreter<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#101-interpreter" class="hash-link" aria-label="Direct link to 10.1 Interpreter" title="Direct link to 10.1 Interpreter" translate="no">​</a></h3>
-<p>Đọc bytecode</p>
-<p>Thực thi từng instruction</p>
-<p>📌 Ưu điểm:
--Chạy ngay</p>
-<p>📌 Nhược điểm:
--Chậm nếu chạy lặp nhiều lần</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="102-jit-compiler-just-in-time">10.2 JIT Compiler (Just-In-Time)<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#102-jit-compiler-just-in-time" class="hash-link" aria-label="Direct link to 10.2 JIT Compiler (Just-In-Time)" title="Direct link to 10.2 JIT Compiler (Just-In-Time)" translate="no">​</a></h3>
-<p>JIT làm gì?
--Phát hiện đoạn code chạy nhiều
--Biên dịch bytecode → mã máy
--Cache lại để dùng sau</p>
-<p>📌 JVM hiện đại:
--Interpreter + JIT
--Tự tối ưu khi chương trình chạy</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="11-tổng-kết">11. Tổng kết<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/Java-overview#11-t%E1%BB%95ng-k%E1%BA%BFt" class="hash-link" aria-label="Direct link to 11. Tổng kết" title="Direct link to 11. Tổng kết" translate="no">​</a></h2>
-<p>Tham khảo slide chi tiết tại đây :</p>
-<ul>
-<li class="">🔗 <a href="https://www.canva.com/design/DAHApyPYZmw/AQAchpZL_3B77rpOe4-3YQ/edit" target="_blank" rel="noopener noreferrer" class="">https://www.canva.com/design/DAHApyPYZmw/AQAchpZL_3B77rpOe4-3YQ/edit</a></li>
-</ul>
-<p>Java không đơn thuần là một ngôn ngữ, mà là một nền tảng hoàn chỉnh gồm JDK, JRE và JVM. Chương trình Java không chạy trực tiếp trên hệ điều hành mà phải trải qua quá trình biên dịch sang bytecode, sau đó được JVM thông dịch và tối ưu bằng JIT trước khi CPU thực thi.</p>
-<p>Việc hiểu rõ:</p>
-<p>-Java Platform <br>
--Execution Flow <br>
--JVM Architecture <br></p>
-<p>giúp lập trình viên:</p>
-<p>-Hiểu sâu bản chất Java <br>
--Debug tốt hơn <br>
--Viết code tối ưu hơn <br>
--Có nền tảng học Spring, JVM tuning, backend chuyên sâu <br></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hướng dẫn tạo Blog bằng Docusaurus]]></title>
-        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus</id>
-        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus"/>
-        <updated>2026-02-12T03:51:25.226Z</updated>
-        <summary type="html"><![CDATA[1. Blog là gì? Docusaurus là gì?]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-blog-là-gì-docusaurus-là-gì">1. Blog là gì? Docusaurus là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#1-blog-l%C3%A0-g%C3%AC-docusaurus-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1. Blog là gì? Docusaurus là gì?" title="Direct link to 1. Blog là gì? Docusaurus là gì?" translate="no">​</a></h2>
-<p><strong>Blog</strong> là nơi chia sẻ kiến thức, ghi chép quá trình học tập.<br>
-<strong>Docusaurus</strong> là framework giúp tạo website blog / docs nhanh, được xây dựng trên React.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-công-cụ-sử-dụng">2. Công cụ sử dụng<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#2-c%C3%B4ng-c%E1%BB%A5-s%E1%BB%AD-d%E1%BB%A5ng" class="hash-link" aria-label="Direct link to 2. Công cụ sử dụng" title="Direct link to 2. Công cụ sử dụng" translate="no">​</a></h2>
-<ul>
-<li class="">NodeJS</li>
-<li class="">VS Code</li>
-<li class="">Docusaurus</li>
-<li class="">GitHub Pages</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-quy-trình-dựng-blog">3. Quy trình dựng Blog<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#3-quy-tr%C3%ACnh-d%E1%BB%B1ng-blog" class="hash-link" aria-label="Direct link to 3. Quy trình dựng Blog" title="Direct link to 3. Quy trình dựng Blog" translate="no">​</a></h2>
-<p>Slide dưới đây mô tả <strong>toàn bộ quy trình xây dựng website</strong>,<br>
-<!-- -->từ bước khởi tạo project cho đến khi deploy (triển khai) website lên GitHub Pages.</p>
-<p>👉 <strong>Xem slide hướng dẫn chi tiết tại đây:</strong><br>
-<!-- -->🔗 <a href="https://www.canva.com/design/DAG-x-HN2J0/AXmxIe_VDDip6aalEPP8PQ/view" target="_blank" rel="noopener noreferrer" class="">https://www.canva.com/design/DAG-x-HN2J0/AXmxIe_VDDip6aalEPP8PQ/view</a></p>
-<p><em>(Slide sẽ mở ở tab mới để xem đầy đủ và rõ ràng hơn)</em></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-kết-luận">4. Kết luận<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/huong-dan-tao-blog-docusaurus#4-k%E1%BA%BFt-lu%E1%BA%ADn" class="hash-link" aria-label="Direct link to 4. Kết luận" title="Direct link to 4. Kết luận" translate="no">​</a></h2>
-<p>Sau khi xem slide, người mới có thể:</p>
-<ul>
-<li class="">Tạo project Docusaurus</li>
-<li class="">Viết bài blog</li>
-<li class="">Đẩy source code lên GitHub</li>
-<li class="">Deploy website bằng GitHub Pages</li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain & Web3 – Hướng dẫn từ cơ bản đến thực hành]]></title>
-        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3</id>
-        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3"/>
-        <updated>2026-02-08T03:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Giải thích Blockchain, Web3, Smart Contract và ví Web3 một cách dễ hiểu cho người mới bắt đầu]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-giới-thiệu">📌 Giới thiệu<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-gi%E1%BB%9Bi-thi%E1%BB%87u" class="hash-link" aria-label="Direct link to 📌 Giới thiệu" title="Direct link to 📌 Giới thiệu" translate="no">​</a></h2>
-<p>Blockchain và Web3 đang là những công nghệ cốt lõi của Internet thế hệ mới.<br>
-<!-- -->Nếu Web2 giúp người dùng <strong>tương tác và tạo nội dung</strong>, thì Web3 hướng đến mục tiêu lớn hơn:<br>
-<!-- -->👉 <strong>trao quyền sở hữu dữ liệu và tài sản số cho người dùng</strong>.</p>
-<p>Bài viết này được thiết kế dành cho <strong>người mới bắt đầu</strong>, giúp bạn:</p>
-<ul>
-<li class="">Hiểu Blockchain là gì</li>
-<li class="">Hiểu Web3 khác Web2 ở điểm nào</li>
-<li class="">Biết Smart Contract hoạt động ra sao</li>
-<li class="">Có cái nhìn tổng quan trước khi học sâu hơn</li>
-</ul>
-<p>📊 <strong>Slide minh hoạ toàn bộ bài học:</strong><br>
-<!-- -->👉 <a href="https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_blank" rel="noopener noreferrer" class="">Blockchain &amp; Web3 – Canva</a></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1️⃣-blockchain-là-gì">1️⃣ Blockchain là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#1%EF%B8%8F%E2%83%A3-blockchain-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1️⃣ Blockchain là gì?" title="Direct link to 1️⃣ Blockchain là gì?" translate="no">​</a></h2>
-<p>Blockchain (chuỗi khối) là một <strong>cơ sở dữ liệu phân tán</strong>, nơi dữ liệu được:</p>
-<ul>
-<li class="">Ghi lại thành từng <strong>Block</strong></li>
-<li class="">Các block <strong>liên kết với nhau bằng mã hoá</strong></li>
-<li class="">Không thể sửa đổi dữ liệu đã ghi</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-đặc-điểm-chính-của-blockchain">🔗 Đặc điểm chính của Blockchain<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-%C4%91%E1%BA%B7c-%C4%91i%E1%BB%83m-ch%C3%ADnh-c%E1%BB%A7a-blockchain" class="hash-link" aria-label="Direct link to 🔗 Đặc điểm chính của Blockchain" title="Direct link to 🔗 Đặc điểm chính của Blockchain" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>Phi tập trung</strong>: Không có máy chủ trung tâm</li>
-<li class=""><strong>Minh bạch</strong>: Ai cũng có thể kiểm tra giao dịch</li>
-<li class=""><strong>Bất biến</strong>: Dữ liệu đã ghi gần như không thể xoá</li>
-</ul>
-<p>📌 Ví dụ:</p>
-<blockquote>
-<p>Khi bạn chuyển tiền trên blockchain, giao dịch đó sẽ được ghi lại vĩnh viễn và mọi người đều có thể kiểm tra.</p>
-</blockquote>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2️⃣-cấu-trúc-cơ-bản-của-blockchain--web3">2️⃣ Cấu trúc cơ bản của Blockchain &amp; Web3<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#2%EF%B8%8F%E2%83%A3-c%E1%BA%A5u-tr%C3%BAc-c%C6%A1-b%E1%BA%A3n-c%E1%BB%A7a-blockchain--web3" class="hash-link" aria-label="Direct link to 2️⃣ Cấu trúc cơ bản của Blockchain &amp; Web3" title="Direct link to 2️⃣ Cấu trúc cơ bản của Blockchain &amp; Web3" translate="no">​</a></h2>
-<p>Một hệ sinh thái Web3 thường gồm các thành phần sau:</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-block">🔹 Block<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-block" class="hash-link" aria-label="Direct link to 🔹 Block" title="Direct link to 🔹 Block" translate="no">​</a></h3>
-<ul>
-<li class="">Chứa dữ liệu giao dịch</li>
-<li class="">Có mã băm (hash) của block trước</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-hash">🔹 Hash<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-hash" class="hash-link" aria-label="Direct link to 🔹 Hash" title="Direct link to 🔹 Hash" translate="no">​</a></h3>
-<ul>
-<li class="">Là chuỗi ký tự mã hoá đại diện cho dữ liệu</li>
-<li class="">Chỉ cần thay đổi 1 ký tự → hash đổi hoàn toàn</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-node">🔹 Node<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-node" class="hash-link" aria-label="Direct link to 🔹 Node" title="Direct link to 🔹 Node" translate="no">​</a></h3>
-<ul>
-<li class="">Là các máy tính tham gia mạng blockchain</li>
-<li class="">Mỗi node lưu một bản sao dữ liệu</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-wallet-ví-web3">🔹 Wallet (Ví Web3)<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-wallet-v%C3%AD-web3" class="hash-link" aria-label="Direct link to 🔹 Wallet (Ví Web3)" title="Direct link to 🔹 Wallet (Ví Web3)" translate="no">​</a></h3>
-<ul>
-<li class="">Đại diện cho <strong>danh tính số</strong> của người dùng</li>
-<li class="">Lưu private key (chìa khoá riêng)</li>
-<li class="">Ví dụ: MetaMask, Trust Wallet</li>
-</ul>
-<p>📊 <strong>Slide minh hoạ phần cấu trúc:</strong><br>
-<!-- -->👉 <a href="https://www.canva.com/design/DAHAWicpH1w/pfiXZRFKgXGG2dhy8E4q_g/edit?utm_content=DAHAWicpH1w&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_blank" rel="noopener noreferrer" class="">Xem trên Canva</a></p>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3️⃣-smart-contract-là-gì">3️⃣ Smart Contract là gì?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#3%EF%B8%8F%E2%83%A3-smart-contract-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 3️⃣ Smart Contract là gì?" title="Direct link to 3️⃣ Smart Contract là gì?" translate="no">​</a></h2>
-<p>Smart Contract (Hợp đồng thông minh) là:</p>
-<blockquote>
-<p><strong>Chương trình tự động chạy trên blockchain</strong>, không cần bên trung gian.</p>
-</blockquote>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-đặc-điểm">🧠 Đặc điểm<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#-%C4%91%E1%BA%B7c-%C4%91i%E1%BB%83m" class="hash-link" aria-label="Direct link to 🧠 Đặc điểm" title="Direct link to 🧠 Đặc điểm" translate="no">​</a></h3>
-<ul>
-<li class="">Tự động thực thi</li>
-<li class="">Không thể chỉnh sửa sau khi deploy</li>
-<li class="">Công khai &amp; minh bạch</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="️-ví-dụ-smart-contract-đơn-giản-solidity">✍️ Ví dụ Smart Contract đơn giản (Solidity)<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/blockchain-web3#%EF%B8%8F-v%C3%AD-d%E1%BB%A5-smart-contract-%C4%91%C6%A1n-gi%E1%BA%A3n-solidity" class="hash-link" aria-label="Direct link to ✍️ Ví dụ Smart Contract đơn giản (Solidity)" title="Direct link to ✍️ Ví dụ Smart Contract đơn giản (Solidity)" translate="no">​</a></h3>
-<div class="language-solidity codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-solidity codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">pragma solidity ^0.8.0;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">contract HelloWeb3 {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    function hello() public pure returns(string memory) {</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">        return "Hello Web3!";</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    }</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">}</span><br></span></code></pre></div></div>]]></content>
+<p><strong>Occurs when running:</strong></p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">javac Hello.java</span><br></span></code></pre></div></div>]]></content>
+        <category label="java" term="java"/>
+        <category label="jvm" term="jvm"/>
+        <category label="bytecode" term="bytecode"/>
+        <category label="jdk" term="jdk"/>
+        <category label="jre" term="jre"/>
+        <category label="jit" term="jit"/>
+        <category label="execution-flow" term="execution-flow"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Website]]></title>
@@ -394,12 +283,6 @@ Bytecode (.class)<br>
 <p>Not using SSH:</p>
 <div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">GIT_USER=&lt;Your GitHub username&gt; yarn deploy</span><br></span></code></pre></div></div>
 <p>If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the <code>gh-pages</code> branch.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[blog/demo]]></title>
-        <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/demo</id>
-        <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/demo"/>
-        <updated>2026-01-15T05:38:02.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tutorial Intro]]></title>
