@@ -2,28 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog</id>
     <title>Blog của Tiến Thành Blog</title>
-    <updated>2026-02-12T03:51:25.226Z</updated>
+    <updated>2026-03-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog"/>
     <subtitle>Blog của Tiến Thành Blog</subtitle>
     <icon>https://tienthanh23072007-stack.github.io/my-docusaurus/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[blog/huong-dan-dung-blog]]></title>
+        <title type="html"><![CDATA[Guide to Creating a Blog with Docusaurus]]></title>
         <id>https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog</id>
         <link href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog"/>
-        <updated>2026-02-12T03:51:25.226Z</updated>
-        <summary type="html"><![CDATA[---]]></summary>
-        <content type="html"><![CDATA[<hr>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="title-guide-to-creating-a-blog-with-docusaurusdate-2026-03-15tags-blog-docusaurus-tutorial">title: Guide to Creating a Blog with Docusaurus
-date: 2026-03-15
-tags: [blog, docusaurus, tutorial]<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#title-guide-to-creating-a-blog-with-docusaurusdate-2026-03-15tags-blog-docusaurus-tutorial" class="hash-link" aria-label="Direct link to title: Guide to Creating a Blog with Docusaurus
-date: 2026-03-15
-tags: [blog, docusaurus, tutorial]" title="Direct link to title: Guide to Creating a Blog with Docusaurus
-date: 2026-03-15
-tags: [blog, docusaurus, tutorial]" translate="no">​</a></h2>
-<hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-what-is-a-blog-what-is-docusaurus">1. What is a Blog? What is Docusaurus?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#1-what-is-a-blog-what-is-docusaurus" class="hash-link" aria-label="Direct link to 1. What is a Blog? What is Docusaurus?" title="Direct link to 1. What is a Blog? What is Docusaurus?" translate="no">​</a></h2>
+        <updated>2026-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. What is a Blog? What is Docusaurus?]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-what-is-a-blog-what-is-docusaurus">1. What is a Blog? What is Docusaurus?<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#1-what-is-a-blog-what-is-docusaurus" class="hash-link" aria-label="Direct link to 1. What is a Blog? What is Docusaurus?" title="Direct link to 1. What is a Blog? What is Docusaurus?" translate="no">​</a></h2>
 <p><strong>Blog</strong> is a platform for sharing knowledge and documenting the learning process.<br>
 <strong>Docusaurus</strong> is a framework for quickly building blog/documentation websites, built on React.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-tools-used">2. Tools Used<a href="https://tienthanh23072007-stack.github.io/my-docusaurus/blog/blog/huong-dan-dung-blog#2-tools-used" class="hash-link" aria-label="Direct link to 2. Tools Used" title="Direct link to 2. Tools Used" translate="no">​</a></h2>
@@ -47,6 +37,9 @@ tags: [blog, docusaurus, tutorial]" translate="no">​</a></h2>
 <li class="">Push source code to GitHub</li>
 <li class="">Deploy the website using GitHub Pages</li>
 </ul>]]></content>
+        <category label="blog" term="blog"/>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="tutorial" term="tutorial"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain & Web3 – Guide from Basics to Practice]]></title>
